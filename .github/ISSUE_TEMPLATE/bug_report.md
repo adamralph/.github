@@ -13,13 +13,13 @@ The version(s) in which you have observed the bug.
 
 ## To reproduce
 
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 
 1. '...'
 2. '...'
 3. '...'
 
-## Expected behavior
+## Expected behaviour
 
 A clear and concise description of what you expected to happen.
 

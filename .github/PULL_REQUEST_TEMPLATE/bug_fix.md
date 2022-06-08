@@ -1,1 +1,0 @@
-fixes #{BUG_REPORT_ISSUE_NUMBER}

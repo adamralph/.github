@@ -3,5 +3,5 @@
 Bug report: link_to_bug_report
 
 <!-- Before raising a pull request to add a feature, please create an issue using the "Feature request" issue template and link to it here -->
-<!-- If your pull request is not add a feature, delete the following line -->
+<!-- If your pull request is not adding a feature, delete the following line -->
 Feature request: link_to_feature_request
